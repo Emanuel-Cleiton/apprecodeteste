@@ -19,6 +19,9 @@ function App() {
           Aqui é outro teste
         </a>
       </header>
+      <body>
+        <h1>Mais Um teste de Upload</h1>
+      </body>
     </div>
   );
 }
